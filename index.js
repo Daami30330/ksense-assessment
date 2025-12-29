@@ -1,4 +1,4 @@
-const API_KEY = "ak_d41b79d8e3d62719f1b5872232f0366cee8fbb5060ece1f3";
+const API_KEY = "YOUR_API_KEY_HERE";
 
 const results = {
   high_risk_patients: [
@@ -35,5 +35,6 @@ async function submit() {
 }
 
 submit();
+
 
 
